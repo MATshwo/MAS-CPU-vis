@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Source Files\my::cuda">
+      <UniqueIdentifier>{686e0842-c01e-43f7-9489-36e6373af173}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="edge_face.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SeOmp.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SeSchwarzPreconditioner.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lvec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mas.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="edge_face.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeAabb.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeAabbSimd.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeArray2D.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeCollisionElements.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeCsr.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeIntrinsic.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeMath.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeMathSimd.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeMatrix.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeMorton.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeOmp.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SePreDefine.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeSchwarzPreconditioner.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeUtility.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeVector.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeVectorSimd.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lvec.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mas.cu">
+      <Filter>Source Files\my::cuda</Filter>
+    </None>
+  </ItemGroup>
+</Project>

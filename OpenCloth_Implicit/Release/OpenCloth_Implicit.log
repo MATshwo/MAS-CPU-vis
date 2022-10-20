@@ -1,0 +1,18 @@
+﻿  main.cpp
+E:\ProgramDemo\VS2019\opencloth-master\dep\glm\glm\core\func_common.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\ProgramDemo\VS2019\opencloth-master\dep\glm\glm\core\func_common.inl(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\ProgramDemo\VS2019\opencloth-master\dep\glm\glm\core\func_integer.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(215,58): warning C4316: “SE::SeVector<float,-1>”: 在堆上分配的对象可能不是对齐 16
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(216,64): warning C4316: “SE::SeVector<float,-1>”: 在堆上分配的对象可能不是对齐 16
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(246,59): warning C4316: “SE::SeVector<float,-1>”: 在堆上分配的对象可能不是对齐 16
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(247,65): warning C4316: “SE::SeVector<float,-1>”: 在堆上分配的对象可能不是对齐 16
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(321,18): warning C4018: “<”: 有符号/无符号不匹配
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(597,21): warning C4305: “参数”: 从“double”到“GLfloat”截断
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(619,11): warning C4018: “<”: 有符号/无符号不匹配
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(655,16): warning C4018: “<”: 有符号/无符号不匹配
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(747,16): warning C4018: “<”: 有符号/无符号不匹配
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(776,11): warning C4018: “<”: 有符号/无符号不匹配
+E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\OpenCloth_Implicit\main.cpp(825,18): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  已完成代码的生成
+  OpenCloth_Implicit.vcxproj -> E:\ProgramDemo\VS2019\opencloth-master\OpenCloth_Implicit-MASOPT\Release\OpenCloth_Implicit.exe
